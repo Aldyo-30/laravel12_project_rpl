@@ -1,0 +1,18 @@
+Email: desangrawan01@gmail.com	
+PW: Ngrawan-2020
+
+Admin 1
+Admin Acc: ngrn2020
+Email Admin: desangrawan01@gmail.com
+PW: Ngrawan-2020
+
+Admin 2
+Admin Acc: Ngrawan
+Email: pppamungkas3@gmail.com
+PW: ppp3302
+
+DataBase
+Database name: ngrs1279_ngrawan
+username: ngrs1279_ngrawan
+PW: Cr=Z9d5_He28aqUD
+Ngrawan-2020

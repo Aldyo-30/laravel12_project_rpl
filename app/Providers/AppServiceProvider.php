@@ -19,6 +19,11 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        // Set maximum upload file size to 64MB
+        ini_set('upload_max_filesize', '64M');
+        ini_set('post_max_size', '64M');
+        ini_set('memory_limit', '256M');
+        ini_set('max_execution_time', '300');
+        ini_set('max_input_time', '300');
     }
 }
